@@ -1,0 +1,252 @@
+{
+  "main": {
+    "id": "5324373015726ba8",
+    "type": "split",
+    "children": [
+      {
+        "id": "4509724f8bf84da7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e7a7b303c61786dc",
+            "type": "leaf",
+            "state": {
+              "type": "mx-file-video",
+              "state": {
+                "file": "测试视频/Video_2025-07-20_233428.mp4"
+              },
+              "icon": "file-video",
+              "title": "Video_2025-07-20_233428"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "280a9a0835da28b0",
+    "type": "split",
+    "children": [
+      {
+        "id": "01461f4cf786da20",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "80f5f42688e8e84a",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "ecb0241fc7898a05",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "d68b148b321cf1f3",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          },
+          {
+            "id": "7ffb59f24bf09c67",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {},
+              "icon": "clock",
+              "title": "Recent Files"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "4984f277913d6de2",
+    "type": "split",
+    "children": [
+      {
+        "id": "fe40351203ac2fa6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cea4cbba5f6a43b7",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "测试视频/Video_2025-07-20_233428.mp4",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Video_2025-07-20_233428 的反向链接列表"
+            }
+          },
+          {
+            "id": "96d2b0295f3f5249",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Media Note - Video_2025-07-20_233428 2.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Media Note - Video_2025-07-20_233428 2 的出链列表"
+            }
+          },
+          {
+            "id": "62236aee908c09f3",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "7f4f414914c5e783",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Media Note - Video_2025-07-20_233428 2.md",
+                "followCursor": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Media Note - Video_2025-07-20_233428 2 的大纲"
+            }
+          },
+          {
+            "id": "0d26a285f47120bc",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {},
+              "icon": "spreadsheet",
+              "title": "Advanced Tables"
+            }
+          }
+        ]
+      },
+      {
+        "id": "04a295aee4efa5ab",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ed617c66a649e0f2",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 364.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "homepage:Open homepage": false,
+      "meld-encrypt:New encrypted note": false,
+      "meld-encrypt:Lock and Close all open encrypted notes": false,
+      "meld-encrypt:Convert to or from an Encrypted note": false,
+      "meld-encrypt:Encrypt Selection": false,
+      "meld-encrypt:Decrypt at Cursor": false,
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-excalidraw-plugin:新建绘图文件": false,
+      "media-extended:Open media": false,
+      "hidden-folder-obsidian:隐藏文件夹": false,
+      "excel:创建 Excel 文件": false
+    }
+  },
+  "active": "e7a7b303c61786dc",
+  "lastOpenFiles": [
+    "测试视频/视频笔记.md",
+    "测试视频/Video_2025-07-20_233428.mp4",
+    "测试视频/assets/视频笔记/Video_2025-07-20_233428PT8.201S.webp",
+    "测试视频/assets/视频笔记",
+    "测试视频/assets",
+    "Media Note - Video_2025-07-20_233428 7.md",
+    "Media Note - Video_2025-07-20_233428 3.md",
+    "Media Note - Video_2025-07-20_233428 1.md",
+    "Media Note - Video_2025-07-20_233428.md",
+    "Media Note - Video_2025-07-20_233428 13.md",
+    "Media Note - Video_2025-07-20_233428 12.md",
+    "2025-07-13.md",
+    "Media Note - Video_2025-07-20_233428 2.md",
+    "Media Note - Video_2025-07-20_233428 4.md",
+    "Media Note - Video_2025-07-20_233428 11.md",
+    "Media Note - Video_2025-07-20_233428 10.md",
+    "Media Note - Video_2025-07-20_233428 9.md",
+    "Media Note - Video_2025-07-20_233428 8.md",
+    "assets/Media Note - Video_2025-07-20_233428 8/Video_2025-07-20_233428PT3.361S.webp",
+    "assets/Media Note - Video_2025-07-20_233428 8",
+    "Media Note - Video_2025-07-20_233428 6.md",
+    "Media Note - Video_2025-07-20_233428 5.md",
+    "assets/Media Note - Video_2025-07-20_233428 3/Video_2025-07-20_233428DT0S.webp",
+    "assets/111222/111222-20250618224231.png",
+    "assets/Media Note - Video_2025-07-20_233428 3",
+    "测试视频",
+    "欢迎.md",
+    "创建链接.md",
+    "111222.md",
+    "未命名 1.canvas",
+    "未命名.canvas",
+    "assets/111222",
+    "assets/未命名",
+    "assets"
+  ]
+}
