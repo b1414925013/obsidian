@@ -1,2 +1,0 @@
-requests==2.32.5
-paramiko>=2.7.2
